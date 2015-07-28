@@ -22,14 +22,14 @@
 		- Initial version
 
 ######AUTHOR
-	Marek Philibert <marekphilibert@gmail.com>
+	Marek Philibert <[marekphilibert@gmail.com](marekphilibert@gmail.com)>
 	
 ######ICONS
-	iconarchive.com/show/small-n-flat-icons-by-paomedia/light-bulb-icon.html
-	flaticons.net/customize.php?dir=Application&icon=Display-Brightness.png
+	[iconarchive.com/show/small-n-flat-icons-by-paomedia/light-bulb-icon.html](iconarchive.com/show/small-n-flat-icons-by-paomedia/light-bulb-icon.html)
+	[flaticons.net/customize.php?dir=Application&icon=Display-Brightness.png](flaticons.net/customize.php?dir=Application&icon=Display-Brightness.png)
 
 ######REPORTING BUGS
-	Email me at <marekphilibert@gmail.com>
+	Email me at <[marekphilibert@gmail.com](marekphilibert@gmail.com)>
 
 ######COPYRIGHT
 	Copyright 2015, Marek Philibert, All rights reserved.
