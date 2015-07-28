@@ -22,9 +22,11 @@
 		- Initial version
 
 ######AUTHOR
-	Script written by Marek Philibert <marekphilibert@gmail.com>
-	Icon found at iconarchive.com/show/small-n-flat-icons-by-paomedia/light-bulb-icon.html
-	Icon2 found at flaticons.net/customize.php?dir=Application&icon=Display-Brightness.png
+	Marek Philibert <marekphilibert@gmail.com>
+	
+######ICONS
+	iconarchive.com/show/small-n-flat-icons-by-paomedia/light-bulb-icon.html
+	flaticons.net/customize.php?dir=Application&icon=Display-Brightness.png
 
 ######REPORTING BUGS
 	Email me at <marekphilibert@gmail.com>
