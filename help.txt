@@ -30,4 +30,4 @@ REPORTING BUGS
 	you can't
 
 COPYRIGHT
-	none yet
+	Copyright © 2015 Marek Philibert
