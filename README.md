@@ -1,10 +1,11 @@
+```
 ####LUMOS
 #####NAME
 	lumos - alter the backlight brightness with a simple GUI
 
 #####SYNOPSIS
 	lumos [OPTION]
-
+```
 #####DESCRIPTION
 	Simple GUI with buttons that alter the backlight brightness, from 10 to 100 percent.
 
