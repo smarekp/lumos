@@ -1,5 +1,5 @@
 ```
-**NAME**
+NAME
 	lumos - alter the backlight brightness with a simple GUI
 
 SYNOPSIS
