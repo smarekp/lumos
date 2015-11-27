@@ -1,4 +1,4 @@
-```bash
+```shell
 NAME
 	lumos - alter the backlight brightness with a simple GUI
 
