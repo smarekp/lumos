@@ -1,12 +1,11 @@
-```
-####LUMOS
-#####NAME
+```bash
+NAME
 	lumos - alter the backlight brightness with a simple GUI
 
-#####SYNOPSIS
+SYNOPSIS
 	lumos [OPTION]
-```
-#####DESCRIPTION
+
+DESCRIPTION
 	Simple GUI with buttons that alter the backlight brightness, from 10 to 100 percent.
 
 	-h
@@ -15,7 +14,7 @@
 	-m
 		Opens the window near the mouse..
 	
-#####VERSION HISTORY
+VERSION HISTORY
 	v0.02
 		- Added getopts and options '-h' and '-m'
 		- Created 'help.txt' and displayHelp()
@@ -23,15 +22,14 @@
 	v0.01
 		- Initial version
 
-#####AUTHOR
-	Marek Philibert <marekphilibert@gmail.com>
-	
-#####ICONS
-	iconarchive.com/show/small-n-flat-icons-by-paomedia/light-bulb-icon.html
-	flaticons.net/customize.php?dir=Application&icon=Display-Brightness.png
+AUTHOR
+	Script written by Marek Philibert <marekphilibert@gmail.com>
+	Icon found at iconarchive.com/show/small-n-flat-icons-by-paomedia/light-bulb-icon.html
+	Icon2 found at flaticons.net/customize.php?dir=Application&icon=Display-Brightness.png
 
-#####REPORTING BUGS
-	Email me at <marekphilibert@gmail.com>.
+REPORTING BUGS
+	you can't
 
-#####COPYRIGHT
-	Copyright 2015, Marek Philibert, All rights reserved.
+COPYRIGHT
+	Copyright © 2015 Marek Philibert
+```
