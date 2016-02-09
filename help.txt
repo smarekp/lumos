@@ -14,7 +14,6 @@ DESCRIPTION
 		Opens the window near the mouse..
 	
 DEPENDANCIES
-
 	xbacklight (sudo apt-get install xbacklight)
 
 VERSION HISTORY
