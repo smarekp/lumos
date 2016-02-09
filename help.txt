@@ -13,6 +13,10 @@ DESCRIPTION
 	-m
 		Opens the window near the mouse..
 	
+DEPENDANCIES
+
+	xbacklight (sudo apt-get install xbacklight)
+
 VERSION HISTORY
 	v0.02
 		- Added getopts and options '-h' and '-m'
